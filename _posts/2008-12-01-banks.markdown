@@ -1,0 +1,12 @@
+---
+layout: post
+title: Banks
+wordpress_id: 121
+wordpress_url: http://www.varud.com/?p=121
+date: 2008-12-01 12:28:17.000000000 -05:00
+---
+One of the first things that even an ultra-light startup needs to worry about is a checking account.  I already had an account with Citibank, so I figured I should go with them.  That way I could manage my personal and business money easily.
+
+Citibank does not work that way.  In order to access business funds, one has to log into the business interface.  This thing must have been designed in 1998 and hasn't been touched since.  In addition to a terrible user interface, it loses my cookie every few days so I have to put in a whole slew of information to get back on the site.  They give me a random number generator to get onto the site as well as me having a password - that should be enough for security sake.  Google is smart about these types of things and they actually design systems (like Analytics) for different size organizations.  If I had millions of dollars in my account, maybe the extra hurdles would be worth it.  However, with about $3k in the bank, what's the point?
+
+Another issue is the $20 monthly fee.  Chase is much better with regards to these issues and I would recommend to people that they consider Chase or BoA before Citibank.  Local banks may also be a good option but I don't know.

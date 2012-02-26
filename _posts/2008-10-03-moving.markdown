@@ -1,0 +1,8 @@
+---
+layout: post
+title: Moving
+wordpress_id: 59
+wordpress_url: http://www.varud.com/?p=66
+date: 2008-10-03 09:47:52.000000000 -04:00
+---
+This week has been a fun one.Â  We all moved to the <a href="http://sparkspaceny.com/">Rose Tech Ventures Incubator, Spark Space NY</a>.Â  This is a great place to work - a really good vibe, lots of interesting people doing web 2.0 work, and generally a better location (all those sirens in midtown can start to wear on you).Â  Anyway, one of my mantras is that small is better, and minimal is best.Â  What was best about the move was that I only had <a href="http://www.apple.com/macmini/">Mac Minis</a>.Â  These things are the love of my life.Â  Two of them are still half the size of a normal desktop.Â  I only wish they would be <a href="http://buyersguide.macrumors.com/#Mac_mini">updated</a> and support dual monitor configurations :-(

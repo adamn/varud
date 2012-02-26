@@ -1,0 +1,23 @@
+---
+layout: post
+title: Identity
+wordpress_id: 74
+wordpress_url: http://www.varud.com/?p=74
+date: 2008-11-11 11:56:59.000000000 -05:00
+---
+I was reading Google's <a href="http://googlesystem.blogspot.com/2008/11/google-profile-search.html">Operating System blog</a> - and some issues that I had been thinking about percolated up.  Here is an excerpt from my thoughts on differences between 'self' and 'identity' when it comes to representations of people online.  This is extremely important as social networks go mainstream and mature.
+<blockquote>
+
+'Self' is me, the one that is typing this right now, the one who sleeps at night in my bed, who I'm with in the shower.
+
+'Identity' is my portrayal to the rest of the world. For instance, as a business person, I'm interested in social network applications. As a programmer I'm interested in Django programming. As a voter, I'm a fiscal conservative who voted for Obama. I may not mind if some of these identities leak into each other - for instance between programming and business. However, if I were being funded by a strong McCain supporter, I might want to show my Obama support broadly but without interfering with my business identity.
+
+This has been a problem for time immemorial and there have been many ways of solving it. The Federalist papers were written by a few different authors - James Madison being one of them. However, he wasn't in a position to put his name next to his writings - he needed to use a pseudonym.
+
+Nonetheless, this pseudonym couldn't be a one-off name - it needed to be used on multiple essays in order to build a reputation. People who like an author, want to read more by that same author - so there needs to be continuity with regards to identities. They need to be managed.
+
+I noticed this very clearly in Disqus recently. They have no isolation between who you are and what your identity is. This is a real problem for a service that focuses on comments. I noticed how somebody, on a technology blog, had also recently commented on a gay city profile site. I presume he's out and he doesn't mind, but if he did mind what could he do.
+
+The only current solution is to manage your identities by hand. That will always be the safest option since nobody is as trustworthy as yourself. However, an intermediate step would be better.
+
+Google and other like minded companies need to structurally build isolation between 'self' and 'identity' so that users can be logged in with multiple profiles available for any given topic.</blockquote>
